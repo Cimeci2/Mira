@@ -65,6 +65,10 @@ Full engineering standard and guardrail list: [`CLAUDE.md`](CLAUDE.md). Agentic 
 
 > ⚠️ Not legal advice. References to GDPR, the DSA, and the French SREN law are indicative and must be re-verified before any real deployment. No real victim data flows through the demo.
 
+## Team
+
+Built during the RAISE Hackathon 2026 by **Ilan**, **Come**, **Anfel**, **Nada** and **Jade**.
+
 ---
 
 Event details: https://cerebralvalley.ai/e/raise-summit-hackathon/details
