@@ -67,7 +67,13 @@ Full engineering standard and guardrail list: [`CLAUDE.md`](CLAUDE.md). Agentic 
 
 ## Team
 
-Built during the RAISE Hackathon 2026 by **Ilan**, **Come**, **Anfel**, **Nada** and **Jade**.
+Built during the RAISE Hackathon 2026 by:
+
+- [Ilan](https://www.linkedin.com/in/ilan-nowak-glandier)
+- [Come](https://www.linkedin.com/in/comebruchet)
+- [Anfal](https://www.linkedin.com/in/anfal-bourouina/)
+- [Nada](https://www.linkedin.com/in/nada-ahmadi)
+- [Yue](https://www.linkedin.com/in/yuebuild/)
 
 ---
 
